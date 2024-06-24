@@ -1,2 +1,2 @@
-# ecg_classification_using_resnet
-ECG Classification using resnet
+# ecg_classification
+ECG Classification
